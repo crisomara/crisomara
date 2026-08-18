@@ -7,7 +7,7 @@
   <a href="mailto:mail.cardiosense@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-Biomedical & Mechatronics Engineer (Kyambogo University) based in Kampala, Uganda, working at the intersection of machine learning and cardiac care — building low-cost tools to close the diagnosis gap for non-communicable diseases in Sub-Saharan Africa.
+I am a Biomedical & Mechatronics Engineer from Kyambogo University based in Kampala, Uganda, working at the intersection of machine learning and cardiac care — building low-cost tools to close the diagnosis gap for non-communicable diseases in Sub-Saharan Africa.
 
 ### Focus areas
 
@@ -19,20 +19,20 @@ Biomedical & Mechatronics Engineer (Kyambogo University) based in Kampala, Ugand
 
 | Project | What it is |
 |---|---|
-| **[Wearable MI Detection System](https://github.com/crisomara/kardiosense-research)** | Lead-agnostic ECG + clinical-risk-factor fusion for MI screening in low-resource settings. Open research code, full model card, TRIPOD+AI-aligned reporting. 🏆 HSB Grant – Innovate Africa recipient · presented at National Science Week 2025. |
+| **[Wearable MI Detection System](https://github.com/crisomara/kardiosense-research)** | Lead-agnostic ECG + clinical-risk-factor fusion for MI screening in low-resource settings. Open research code, full model card, TRIPOD+AI-aligned reporting. 🏆 HSB Grant – Innovate Africa recipient · presented at National Science Week 2025 and the NCD Conference in Gulu, Uganda. |
 | **[ecg-prototype-mvp](https://github.com/crisomara/ecg-prototype-mvp)** | ECG signal capture prototype using an Arduino UNO R4 and AD8232 sensor. |
-| **[sheria_yangu](https://github.com/crisomara/sheria_yangu)** | Multi-agent system for legal document analysis. |
+| **[sheria_yangu](https://github.com/crisomara/sheria_yangu)** | Multi-agent system for legal document analysis in Uganda (Kaggle Capstone Challenge Submission). |
 
 ### Tech stack
 
-**Languages & data** — Python · NumPy · Pandas · SciPy · Matplotlib
+**Languages & data** — Python · NumPy · Pandas · SciPy · Matplotlib · R
 **ML / AI** — scikit-learn · TensorFlow · Anaconda
 **Backend & infra** — FastAPI · Firebase · SQLite · MySQL
 **Hardware** — Arduino
 
 ### Currently
 
-- **Working on:** the wearable MI detection system and this profile/portfolio
+- **Working on:** the wearable MI detection system 
 - **Open to:** collaboration on ML/AI for medical diagnosis of NCDs in LMICs, and epidemiology research on primordial prevention
 - **Ask me about:** biomedical signal processing, cardiology tech, mechatronics, digital health
 
