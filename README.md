@@ -19,7 +19,7 @@ Biomedical & Mechatronics Engineer (Kyambogo University) based in Kampala, Ugand
 
 | Project | What it is |
 |---|---|
-| **[Wearable MI Detection System](https://github.com/crisomara/kardiosense_website)** | Low-cost, ML-powered wearable for real-time myocardial infarction detection, designed for low-infrastructure settings. 🏆 HSB Grant – Innovate Africa recipient · presented at National Science Week 2025. |
+| **[Wearable MI Detection System](https://github.com/crisomara/kardiosense-research)** | Lead-agnostic ECG + clinical-risk-factor fusion for MI screening in low-resource settings. Open research code, full model card, TRIPOD+AI-aligned reporting. 🏆 HSB Grant – Innovate Africa recipient · presented at National Science Week 2025. |
 | **[ecg-prototype-mvp](https://github.com/crisomara/ecg-prototype-mvp)** | ECG signal capture prototype using an Arduino UNO R4 and AD8232 sensor. |
 | **[sheria_yangu](https://github.com/crisomara/sheria_yangu)** | Multi-agent system for legal document analysis. |
 
