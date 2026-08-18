@@ -1,19 +1,43 @@
-## Hi there 👋
-# 💫 About Me:
-I'm currently working on: Showcasing 2 projects that demonstrate my skills in data science and ML engineering.<br><br>I'm looking to collaborate on: Research and projects focused on the application of machine learning and AI in medical disease diagnosis, particularly for Non-Communicable Diseases (NCDs) in Low and Middle-Income Countries (LMICs). I'm also keen on medical research in epidemiology and data analysis for promoting primordial prevention methods for NCDs.<br><br>I'm looking for help with: Expanding my network in the medical AI and data science fields, and discovering new opportunities for impact.<br><br>I'm currently learning: Advanced techniques in machine learning and AI for medical applications, as well as exploring new tools relevant to data science and epidemiology.<br><br>Ask me about: Data science, machine learning, AI in medicine, NCDs, epidemiology, mechatronics, and biomedical engineering.
+<h1 align="center">Christian Omara</h1>
+<p align="center"><i>Junior Data Scientist · Machine Learning for Healthcare</i></p>
 
+<p align="center">
+  <a href="https://crisomara.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-crisomara.github.io-14b8a6?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/omara-christian-kenneth"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mail.cardiosense@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omara-christian-kenneth) 
+Biomedical & Mechatronics Engineer (Kyambogo University) based in Kampala, Uganda, working at the intersection of machine learning and cardiac care — building low-cost tools to close the diagnosis gap for non-communicable diseases in Sub-Saharan Africa.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raucousboy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Raucousboy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raucousboy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Focus areas
 
----
-[![](https://visitcount.itsvg.in/api?id=Raucousboy&icon=0&color=0)](https://visitcount.itsvg.in)
+- Applying ML/AI to early diagnosis of Non-Communicable Diseases (NCDs) in Low- and Middle-Income Countries
+- Biomedical signal processing — ECG analysis and wearable cardiac monitoring
+- Epidemiology and data analysis for primordial prevention
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Featured work
+
+| Project | What it is |
+|---|---|
+| **[Wearable MI Detection System](https://github.com/crisomara/kardiosense_website)** | Low-cost, ML-powered wearable for real-time myocardial infarction detection, designed for low-infrastructure settings. 🏆 HSB Grant – Innovate Africa recipient · presented at National Science Week 2025. |
+| **[ecg-prototype-mvp](https://github.com/crisomara/ecg-prototype-mvp)** | ECG signal capture prototype using an Arduino UNO R4 and AD8232 sensor. |
+| **[sheria_yangu](https://github.com/crisomara/sheria_yangu)** | Multi-agent system for legal document analysis. |
+
+### Tech stack
+
+**Languages & data** — Python · NumPy · Pandas · SciPy · Matplotlib
+**ML / AI** — scikit-learn · TensorFlow · Anaconda
+**Backend & infra** — FastAPI · Firebase · SQLite · MySQL
+**Hardware** — Arduino
+
+### Currently
+
+- **Working on:** the wearable MI detection system and this profile/portfolio
+- **Open to:** collaboration on ML/AI for medical diagnosis of NCDs in LMICs, and epidemiology research on primordial prevention
+- **Ask me about:** biomedical signal processing, cardiology tech, mechatronics, digital health
+
+<p align="center">
+  <a href="https://github.com/crisomara">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/omara-christian-kenneth">LinkedIn</a> ·
+  <a href="mailto:mail.cardiosense@gmail.com">Email</a>
+</p>
