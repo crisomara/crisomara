@@ -32,7 +32,7 @@ I am a Biomedical & Mechatronics Engineer from Kyambogo University based in Kamp
 
 ### Currently
 
-- **Working on:** the wearable MI detection system 
+- **Working on:** the wearable MI detection system
 - **Open to:** collaboration on ML/AI for medical diagnosis of NCDs in LMICs, and epidemiology research on primordial prevention
 - **Ask me about:** biomedical signal processing, cardiology tech, mechatronics, digital health
 
