@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+  schedule:
+    # Weekly, so links that rot are noticed even without new commits.
+    - cron: '41 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  markdown-lint:
+    name: Markdown lint
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DavidAnson/markdownlint-cli2-action@v24
+
+  links:
+    name: Link check
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # External links are checked here; retries and accepting 429 keep rate limits from failing the build.
+          # LinkedIn is excluded in .lycheeignore (it answers bots with HTTP 999).
+          args: --no-progress --verbose --max-retries 4 --retry-wait-time 5 --accept '200..=299,429' --timeout 30 README.md
+          fail: true
+          jobSummary: true

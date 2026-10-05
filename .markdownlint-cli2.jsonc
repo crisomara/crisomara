@@ -1,0 +1,15 @@
+{
+  "config": {
+    "default": true,
+    // A GitHub profile README relies on inline HTML for centred headers and badges.
+    "MD033": false,
+    // The first line is an HTML <h1>, which MD041 does not recognise.
+    "MD041": false,
+    // Prose paragraphs and badge rows are not wrapped.
+    "MD013": false,
+    // Table pipe spacing is purely stylistic.
+    "MD060": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules/**"]
+}
