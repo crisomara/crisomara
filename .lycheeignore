@@ -1,0 +1,2 @@
+# LinkedIn answers automated requests with HTTP 999, so its links cannot be checked from CI.
+^https://(www\.)?linkedin\.com/

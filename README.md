@@ -20,7 +20,7 @@ I am a Biomedical & Mechatronics Engineer from Kyambogo University based in Kamp
 | Project | What it is |
 |---|---|
 | **[Wearable MI Detection System](https://github.com/crisomara/kardiosense-research)** | Lead-agnostic ECG + clinical-risk-factor fusion for MI screening in low-resource settings. Open research code, full model card, TRIPOD+AI-aligned reporting. 🏆 HSB Grant – Innovate Africa recipient · presented at National Science Week 2025 and the NCD Conference in Gulu, Uganda. |
-| **[ecg-prototype-mvp](https://github.com/crisomara/ecg-prototype-mvp)** | ECG signal capture prototype using an Arduino UNO R4 and AD8232 sensor. |
+| **ecg-prototype-mvp** | ECG signal capture prototype using an Arduino UNO R4 and AD8232 sensor. |
 | **[sheria_yangu](https://github.com/crisomara/sheria_yangu)** | Multi-agent system for legal document analysis in Uganda (Kaggle Capstone Challenge Submission). |
 
 ### Tech stack
@@ -32,7 +32,7 @@ I am a Biomedical & Mechatronics Engineer from Kyambogo University based in Kamp
 
 ### Currently
 
-- **Working on:** the wearable MI detection system 
+- **Working on:** the wearable MI detection system
 - **Open to:** collaboration on ML/AI for medical diagnosis of NCDs in LMICs, and epidemiology research on primordial prevention
 - **Ask me about:** biomedical signal processing, cardiology tech, mechatronics, digital health
 
